@@ -2,7 +2,7 @@ randomquote.property = Random quote service is here.
 port.number.for.display.only=666
 
 # this is the port on which our hello-cloud-service will run
-server.port=2244
+server.port=2121
 
 # allow for RefreshScope
 management.endpoints.web.exposure.include=*
